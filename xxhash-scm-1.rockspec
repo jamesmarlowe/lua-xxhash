@@ -1,7 +1,7 @@
 package = "xxhash"
 version = "scm-1"
 source = {
-    url = "git://github.com/mah0x211/lua-xxhash.git"
+    url = "git://github.com/jamesmarlowe/lua-xxhash.git"
 }
 description = {
     summary = "xxhash binding",
