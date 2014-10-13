@@ -1,5 +1,5 @@
 package = "xxhash"
-version = "scm-1"
+version = "v1.0-1"
 source = {
     url = "git://github.com/jamesmarlowe/lua-xxhash.git"
 }
